@@ -222,4 +222,4 @@ Name of the variable from the measurements
 - fBodyBodyGyroJerkMag-std()
 
 ### AverageValue
-The average of the measurement values for the subject, activity and variable
+The average of the measurement values for the subject, activity and variable. There is no unit for this field - the measurement values have been normalized and bounded within [-1,1].
